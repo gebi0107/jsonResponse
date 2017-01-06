@@ -2,7 +2,7 @@ package org.crazyit.ajax.web;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
-import javax. servlet.annotation.*;
+import javax.servlet.annotation.*;
 
 import java.io.*;
 import java.util.*;
